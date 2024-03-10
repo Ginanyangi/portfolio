@@ -1,8 +1,8 @@
 /* Color variables */
 :root {
     --white-color: #fff;
-    --bg-color: #fff;
-    --gray-color: #ccc;
+    --bg-color: #A3B18A;
+    --gray-color: #;
   }
   
   /* Changing background color */
@@ -18,7 +18,7 @@
   /* Hero section background image */
   .hero {
     height: 100vh;
-    background-image: url("../images/home-bg.jpg");
+    background-image: url("hero bg.avif");
     background-repeat: no-repeat;
     background-position: 60% 0%;
     background-size: cover;
@@ -60,7 +60,7 @@
   }
   
   footer .social-icons a {
-    width: 30px;
+    width: 50px;
     height: 30px;
   }
 
