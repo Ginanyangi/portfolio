@@ -1,18 +1,19 @@
 /* Color variables */
 :root {
-    --white-color: #fff;
+    --white-color: #00b4d8;
     --bg-color: #A3B18A;
-    --gray-color: #;
+    --gray-color:#adb5bd;
   }
   
   /* Changing background color */
   body {
     background: var(--bg-color) !important;
+    background-image: url("");
   }
   
   /* Changing link color */
   .nav-item .nav-link {
-    color: var(--white-color);
+    color: var(--aqua-color);
   }
   
   /* Hero section background image */
